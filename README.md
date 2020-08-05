@@ -14,15 +14,14 @@ Sou apaixonado por resolver problemas
 
 *************************************************************************************************
 
+### Hi there! 👋
 
 I'm passionate about solving problems
 <br/> :computer: &nbsp; I'm a FullStack Developer
 <br/> :purple_heart: &nbsp; Seeking to collaborate with projects using HTML, CSS, Javascript
 <br/> :computer: &nbsp; My stack: HTML, CSS, JavaScript, PHP, JAVA, PostgreSQL
 <br/> 💬  &nbsp; About me: Short technologies, Netflix series, Muaythai and unas cositas mas!
-<br/> :email: &nbsp; How to reach me:
-<br/> www.linkedin.com/in/amicuchi/ 
-<br/> andersonamicuchi@gmail.com
 
-😄 Pronouns: 
-⚡ Fun fact: 
+<br/> :email: &nbsp; How to reach me:
+<br/> &nbsp;     www.linkedin.com/in/amicuchi/ 
+<br/> &nbsp;     andersonamicuchi@gmail.com
