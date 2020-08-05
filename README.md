@@ -1,16 +1,28 @@
-### Hi there 👋
+# Anderson Amicuchi Machado 
+### Olá, pessoal! 👋
 
-<!--
-**Amicuchi/Amicuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por resolver problemas
+<br/> :computer: &nbsp; Sou um FullStack Developer
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando HTML, CSS, Javascript
+<br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, PHP, JAVA, PostgreSQL
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados no Netflix, Muaythai e unas cositas mas!
+<br/> :email: &nbsp; Entre em contato comigo:
+<br/> www.linkedin.com/in/amicuchi/ 
+<br/> andersonamicuchi@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*************************************************************************************************
+
+
+I'm passionate about solving problems
+<br/> :computer: &nbsp; I'm a FullStack Developer
+<br/> :purple_heart: &nbsp; Seeking to collaborate with projects using HTML, CSS, Javascript
+<br/> :computer: &nbsp; My stack: HTML, CSS, JavaScript, PHP, JAVA, PostgreSQL
+<br/> 💬  &nbsp; About me: Short technologies, Netflix series, Muaythai and unas cositas mas!
+<br/> :email: &nbsp; How to reach me:
+<br/> www.linkedin.com/in/amicuchi/ 
+<br/> andersonamicuchi@gmail.com
+
+😄 Pronouns: 
+⚡ Fun fact: 
