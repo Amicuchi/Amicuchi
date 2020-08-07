@@ -1,18 +1,4 @@
 # Anderson Amicuchi Machado 
-### Olá, pessoal! 👋
-
-Sou apaixonado por resolver problemas
-<br/> :computer: &nbsp; Sou um FullStack Developer
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando HTML, CSS, Javascript
-<br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, PHP, JAVA, PostgreSQL
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados no Netflix, Muaythai e unas cositas mas!
-<br/> :email: &nbsp; Entre em contato comigo:
-<br/> www.linkedin.com/in/amicuchi/ 
-<br/> andersonamicuchi@gmail.com
-
-
-
-*************************************************************************************************
 
 ### Hi there! 👋
 
