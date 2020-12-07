@@ -12,9 +12,7 @@ Sou apaixonado por resolução de problemas.
 <br>
 
 ## Aprendendo: 
-  <img src="https://img.shields.io/badge/-HTML5-blue" /> 
-  <img src="https://img.shields.io/badge/-CSS3-red" /> 
-  <img src="https://img.shields.io/badge/JS-Javascript-yellow" />
+  <img src="https://img.shields.io/badge/-HTML5-blue" /> <img src="https://img.shields.io/badge/-CSS3-red" /> <img src="https://img.shields.io/badge/JS-Javascript-yellow" />
 
 ### Frameworks
  - Bootstrap
