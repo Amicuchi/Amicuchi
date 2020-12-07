@@ -16,7 +16,6 @@ Sou apaixonado por resolução de problemas.
   <img src="https://img.shields.io/badge/-CSS3-red" /> 
   <img src="https://img.shields.io/badge/JS-Javascript-yellow" />
 
-<br>
 ### Frameworks
  - Bootstrap
  - NodeJS
