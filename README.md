@@ -1,13 +1,42 @@
 # Anderson Amicuchi Machado 
 
-### Hi there! 👋
+### Olá! 👋
+### Seja bem vindo(a) ao meu perfil
 
-I'm passionate about solving problems
-<br/> :computer: &nbsp; I'm a Front-End Developer, learning how to be Full Stack.
-<br/> :purple_heart: &nbsp; Seeking to collaborate with projects using HTML, CSS, Javascript
-<br/> :computer: &nbsp; My stack: HTML, CSS, JavaScript, Bootstrap, NodeJS
-<br/> 💬  &nbsp; About me: Technologies, Netflix series, Muaythai and "unas cositas mas!"
+Apaixonado por resolução de problemas.
+<br/> :computer: &nbsp; Sou estudante de Front-End.
+<br/> :purple_heart: &nbsp; Busco oportunidade de participar de projetos que utilizem HTML5, CSS3, Javascript.
+<br/> :computer: &nbsp; Minha stack: HTML5, CSS3, JavaScript, Bootstrap, NodeJS, React.
+<br/> 💬  &nbsp; About me: Tecnologia, Netflix, Muaythai e "unas cositas mas!"
 
-<br/> :email: &nbsp; How to reach me:
-<br/> &nbsp;     www.linkedin.com/in/amicuchi/ 
-<br/> &nbsp;     andersonamicuchi@gmail.com
+Aprendendo: 
+  <img src="https://img.shields.io/badge/-HTML5-blue" /> 
+  <img src="https://img.shields.io/badge/-CSS3-red" /> 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript);
+  <img src="" /> <img src="" /> <img src="" />
+
+
+
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+
+
+<br/> :email: &nbsp; Encontre-me nas redes sociais:
+<br/> &nbsp;  [<img width="30px" height="30px" align="left" alt="Anderson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   www.linkedin.com/in/amicuchi/ 
+<br/> <br/> &nbsp;  [<img width="30px" height="30px" align="left" alt="Anderson | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]   andersonamicuchi@gmail.com
+<br/> <br/> &nbsp;  [<img width="30px" height="30px" align="left" alt="Anderson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]   https://instagram.com/AndersonAmicuchi
+
+
+
+<!-- -------------------------------------------------- --> 
+
+
+
+
+
+[instagram]: https://instagram.com/AndersonAmicuchi
+[linkedin]: https://linkedin.com/in/amicuchi
+[gmail]: mailto:AndersonAmicuchi@gmail.com
+
+
+
+<p>Última linha</p>
