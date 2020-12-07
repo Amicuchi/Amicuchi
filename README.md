@@ -3,17 +3,17 @@
 ### Olá! 👋
 ### Seja bem vindo(a) ao meu perfil
 
-Apaixonado por resolução de problemas.
+Sou apaixonado por resolução de problemas.
+
 <br/> :computer: &nbsp; Sou estudante de Front-End.
-<br/> :purple_heart: &nbsp; Busco oportunidade de participar de projetos que utilizem HTML5, CSS3, Javascript.
-<br/> :computer: &nbsp; Minha stack: HTML5, CSS3, JavaScript, Bootstrap, NodeJS, React.
-<br/> 💬  &nbsp; About me: Tecnologia, Netflix, Muaythai e "unas cositas mas!"
+<br/> :purple_heart: &nbsp; Quero poder participar de projetos que utilizem HTML5, CSS3, Javascript.
+<br/> :computer: &nbsp; Minha stack: HTML5, CSS3, JavaScript e seus frameworks.
+<br/> 💬  &nbsp; Alguns hobbies: Falar de Tecnologia, Netflix, Muaythai e "unas cositas mas!"
 
 ## Aprendendo: 
   <img src="https://img.shields.io/badge/-HTML5-blue" /> 
   <img src="https://img.shields.io/badge/-CSS3-red" /> 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript);
-
+  <img src="https://img.shields.io/badge/JS-Javascript-yellow" />
 
 ### Frameworks
  - Bootstrap
