@@ -19,9 +19,9 @@ Sou apaixonado por resolução de problemas.
  - NodeJS
  - React
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amicuchi&theme=blue-green)](https://github.com/Amicuchi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amicuchi&theme=light)](https://github.com/Amicuchi/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Amicuchi&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Amicuchi&theme=light)
 
 
 <!-- -------------------------------------------------- --> 
