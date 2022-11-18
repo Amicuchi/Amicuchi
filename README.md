@@ -17,7 +17,6 @@ Sou apaixonado por resolução de problemas.
 ### Frameworks
  - Bootstrap
  - NodeJS
- - React
 
 <div>
   <a href="https://github.com/Amicuchi">
