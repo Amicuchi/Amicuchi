@@ -7,7 +7,7 @@ Sou apaixonado por resolução de problemas.
 
 <br/> :computer: &nbsp; Estudante de Front-End.
 <br/> :purple_heart: &nbsp; Quero poder participar de projetos que utilizem HTML5, CSS3, Javascript.
-<br/> :computer: &nbsp; Minha stack: HTML5, CSS3, JavaScript e seus frameworks.
+<br/> :computer: &nbsp; Minha stack: HTML5, CSS3, JavaScript e React.
 <br/> 💬  &nbsp; Alguns hobbies: Falar de Tecnologia, Netflix, Muaythai e "unas cositas mas!"
 <br>
 
