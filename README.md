@@ -5,9 +5,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia da Computação.
-
-Estou fazendo o Bootcamp de Ciência de Dados do Santander.
+Sou estudante de Bacharel em TI.
 
 Gosto de desenvolvimento Fron-end e sou um apaixonado por resolução de problemas.
 
@@ -16,9 +14,9 @@ Gosto de desenvolvimento Fron-end e sou um apaixonado por resolução de problem
 
 👩‍💻 Trabalho atualmente como Desenhista Técnico na Secretaria de Segurança Pública.
 
-👯‍♀️ Procuro colaborar em projetos que utilizem HTML5, CSS3, Javascript, React, Python 
+👯‍♀️ Procuro colaborar em projetos que utilizem HTML5, CSS3, Javascript e React.
 
-💬 Gosto de falar de Tecnologia, Netflix, Muaythai e "unas cositas mas!"
+💬 Gosto de falar de Tecnologia e "unas cositas mas!"
 
 ## 🛠 Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
