@@ -1,60 +1,90 @@
-# Olá, eu sou o Anderson! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Anderson!
 
-### Seja bem vindo(a) ao meu perfil!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+</div>
 
+Welcome to my GitHub space! Here you'll find projects that demonstrate my journey in web development and my evolution as a programmer.
 
-## 🚀 Sobre mim
+## 💫 About Me
 
-Sou estudante de Bacharel em TI.
+```javascript
+const anderson = {
+  passion: "Solving problems through technology",
+  specialty: "Front-end Development",
+  education: "Bachelor in IT (in progress)",
+  work: "Technical Designer at the Public Security Department",
+  lookingFor: "Collaborating on projects with HTML, CSS, JavaScript and React"
+};
+```
 
-Gosto de desenvolvimento Fron-end e sou um apaixonado por resolução de problemas.
+## 🚀 Technical Skills
 
+### Languages & Tools
 
-## ⚡️Ainda sobre mim
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-👩‍💻 Trabalho atualmente como Desenhista Técnico na Secretaria de Segurança Pública.
+### Frameworks & Libraries
 
-👯‍♀️ Procuro colaborar em projetos que utilizem HTML5, CSS3, Javascript e React.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-💬 Gosto de falar de Tecnologia e "unas cositas mas!"
+### Database
 
-## 🛠 Stack:
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Estou aprendendo: 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+### Styling
 
-### Alguns frameworks:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
-![Node.JS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=Node.js) 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css-modules&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Soft Skills
-- Proativo
-- Organizado
-- Empático
+## 💪 Soft Skills
 
+- 🔍 **Proactive** - Constantly seeking to learn new technologies and improve my skills
+- 📋 **Organized** - Maintaining clean and well-structured code, always documenting properly
+- 👥 **Empathetic** - Valuing collaboration and teamwork to achieve better results
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amicuchi&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amicuchi&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amicuchi&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amicuchi&theme=react&layout=compact&hide_border=false" />
+</div>
 
+## 🏆 Featured Projects
 
-## Principais Projetos
+<div align="center">
 
-[![FCamara_Squad22 - Donate](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=FCamara_Squad22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/FCamara_Squad22)
-[![PhotoPet](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=PhotoPet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/PhotoPet)
-[![21DaysToCode](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=21DaysToCode&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/21DaysToCode)
-[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=todo-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/todo-app)
-[![Music Player](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=MusicPlayer&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/MusicPlayer)
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=TicTacToe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Amicuchi/TicTacToe)
+  [![Focus Feed](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=BlogFocusFeed&theme=react)](https://github.com/Amicuchi/BlogFocusFeed)
+  [![Cesta Viva](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=CestaViva&theme=react)](https://github.com/Amicuchi/CestaViva)
+  [![SGA](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=SGA&theme=react)](https://github.com/Amicuchi/SGA)
+  [![Destiny Numbers](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=Destiny-Numbers&theme=react)](https://github.com/Amicuchi/Destiny-Numbers)
 
+</div>
 
-## 🔗 Onde me encontrar
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://github.com/Amicuchi/Amicuchi)
-[![e-mail](https://img.shields.io/badge/email-000?style=for-the-badge&logo=ko-fi&logoColor=red)](mailto:AndersonAmicuchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://github.com/Amicuchi)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Amicuchi/Amicuchi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AndersonAmicuchi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amicuchi)
+
+💡 *"Let's connect and collaborate!"* 🚀
+</div>
+
+</br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amicuchi&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>💻 Developed by Anderson Amicuchi</i></p>
+</div>
