@@ -4,17 +4,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
-Welcome to my GitHub space! Here you'll find projects that demonstrate my journey in web development and my evolution as a programmer.
+Welcome to my GitHub space!
+
+Here you'll find projects that demonstrate my journey in web development and my evolution as a programmer.
 
 ## 💫 About Me
 
 ```javascript
 const anderson = {
+  pronouns: "He" | "Him",
+  code: ["Javascript"],
   passion: "Solving problems through technology",
   specialty: "Front-end Development",
   education: "Bachelor in IT (in progress)",
-  work: "Technical Designer at the Public Security Department",
-  lookingFor: "Collaborating on projects with HTML, CSS, JavaScript and React"
+  work: "Technical Designer at the Forensic Police",
+  lookingFor: "Collaborating on projects with HTML, CSS, JavaScript and React",
+  askMeAbout: ["web dev", "app dev", "UI/UX", "Project Management", "tech trends"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Sass", "CSS Modules", "Bootstrap"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+    },
+    databases: ["PostgreSQL", "MongoDB", "SQLite"],
+  },
+  architecture: {
+    frontEnd: ["SPA", "SSR"],
+    backEnd: ["monolithic"],
+    databases: ["Relational", "NoSQL", "In-memory"],
+  },
+  currentFocus: "Find my place at the sun",
+  funFact: "I can debug faster with a botle of water with lemon in hand!",
 };
 ```
 
@@ -59,10 +81,10 @@ const anderson = {
 
 <div align="center">
 
-  [![Focus Feed](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=BlogFocusFeed&theme=react)](https://github.com/Amicuchi/BlogFocusFeed)
-  [![Cesta Viva](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=CestaViva&theme=react)](https://github.com/Amicuchi/CestaViva)
-  [![SGA](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=SGA&theme=react)](https://github.com/Amicuchi/SGA)
-  [![Destiny Numbers](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=Destiny-Numbers&theme=react)](https://github.com/Amicuchi/Destiny-Numbers)
+[![Focus Feed](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=BlogFocusFeed&theme=react)](https://github.com/Amicuchi/BlogFocusFeed)
+[![Cesta Viva](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=CestaViva&theme=react)](https://github.com/Amicuchi/CestaViva)
+[![SGA](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=SGA&theme=react)](https://github.com/Amicuchi/SGA)
+[![Destiny Numbers](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=Destiny-Numbers&theme=react)](https://github.com/Amicuchi/Destiny-Numbers)
 
 </div>
 
@@ -70,11 +92,12 @@ const anderson = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Amicuchi/Amicuchi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amicuchi)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AndersonAmicuchi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amicuchi)
 
-💡 *"Let's connect and collaborate!"* 🚀
+💡 _"Let's connect and collaborate!"_ 🚀
+
 </div>
 
 </br>
