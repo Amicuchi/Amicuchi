@@ -19,20 +19,20 @@ const anderson = {
   education: "Bachelor in IT (in progress)",
   work: "Technical Designer at the Forensic Police",
   lookingFor: "Collaborating on projects with HTML, CSS, JavaScript and React",
-  askMeAbout: ["web dev", "app dev", "UI/UX", "Project Management", "tech trends"],
+  askMeAbout: ["Web development", "UI/UX", "Project Management", "tech trends"],
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["Sass", "CSS Modules", "Bootstrap"],
+      css: ["CSS", "CSS Modules", "SCSS Modules", StyledComponents, "Sass"],
     },
     backEnd: {
       js: ["Node", "Express"],
     },
-    databases: ["PostgreSQL", "MongoDB", "SQLite"],
+    databases: ["PostgreSQL", "MongoDB"],
   },
   architecture: {
     frontEnd: ["SPA", "SSR"],
-    backEnd: ["monolithic"],
+    backEnd: ["Monolithic"],
     databases: ["Relational", "NoSQL", "In-memory"],
   },
   currentFocus: "Find my place at the sun",
@@ -63,6 +63,7 @@ const anderson = {
 
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css-modules&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## 💪 Soft Skills
 
