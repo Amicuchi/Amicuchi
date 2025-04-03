@@ -63,7 +63,7 @@ const anderson = {
 
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css-modules&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=blue)
+![Styled Components](https://img.shields.io/badge/Styled--Components-ffdb7d?style=for-the-badge&logo=styled-components&logoColor=black)
 
 ## 💪 Soft Skills
 
