@@ -12,7 +12,6 @@ Here you'll find projects that demonstrate my journey in web development and my 
 
 ```javascript
 const anderson = {
-  pronouns: "He" | "Him",
   code: ["Javascript"],
   passion: "Solving problems through technology",
   specialty: "Front-end Development",
