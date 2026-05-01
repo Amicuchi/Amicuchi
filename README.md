@@ -1,113 +1,92 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Anderson!
+# Anderson Amicuchi Machado
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
-</div>
+## Robotics | Autonomous Systems | Computer Engineering
 
-Welcome to my GitHub space!
+Computer Engineering student building a research-oriented portfolio focused on intelligent machines, autonomous robotics, and industrial-grade systems.
 
-Here you'll find projects that demonstrate my journey in web development and my evolution as a programmer.
+My long-term mission is to contribute to high-impact engineering projects involving robotics, aerospace systems, automation, and advanced technologies.
 
-## 💫 About Me
+## Core Areas of Focus
+- Mobile Robotics  
+- Autonomous Navigation  
+- Robotic Manipulation  
+- Computer Vision  
+- Embedded Systems  
+- Control Systems  
+- Artificial Intelligence for Physical Systems  
+- Human-Machine Systems  
 
-```javascript
-const anderson = {
-  code: ["Javascript"],
-  passion: "Solving problems through technology",
-  specialty: "Front-end Development",
-  education: "Bachelor in IT (in progress)",
-  work: "Technical Designer at the Forensic Police",
-  lookingFor: "Collaborating on projects with HTML, CSS, JavaScript and React",
-  askMeAbout: ["Web development", "UI/UX", "Project Management", "tech trends"],
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      css: ["CSS", "CSS Modules", "SCSS Modules", StyledComponents, "Sass"],
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-    },
-    databases: ["PostgreSQL", "MongoDB"],
-  },
-  architecture: {
-    frontEnd: ["SPA", "SSR"],
-    backEnd: ["Monolithic"],
-    databases: ["Relational", "NoSQL", "In-memory"],
-  },
-  currentFocus: "Find my place at the sun",
-  funFact: "I can debug faster with a botle of water with lemon in hand!",
-};
-```
+## Current Research Direction
+Design and development of a low-cost autonomous mobile robot capable of:
+- Environment perception  
+- Path planning  
+- Object detection  
+- Autonomous navigation  
+- Robotic arm manipulation  
+- Real-world task execution  
 
-## 🚀 Technical Skills
+This project is being developed with a research mindset: benchmarking algorithms, validating architectures and generating measurable results.
 
-### Languages & Tools
+## Technical Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&style=plastic&logo=javascript&logoColor=black)
+### Languages
+- Python  
+- C++  
+- C  
+- JavaScript  
 
-### Frameworks & Libraries
+### Robotics & AI
+- ROS2  
+- Gazebo  
+- OpenCV  
+- NumPy  
+- Machine Learning Fundamentals  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&style=plastic&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&style=plastic&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&style=plastic&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&style=plastic&logo=bootstrap&logoColor=white)
+### Embedded & Hardware
+- Arduino  
+- ESP32  
+- Sensors & Actuators  
+- Serial Communication  
+- Basic Electronics  
 
-### Database
+### Engineering Tools
+- Linux  
+- Git / GitHub  
+- Docker (learning)  
+- MATLAB / Simulink (future focus)  
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&style=plastic&logo=mongodb&logoColor=white)
+## Strategic Projects
 
-### Styling
+### Path Planning Benchmark
+Comparative analysis of A*, Dijkstra, and RRT in simulated environments using ROS2 + Gazebo.
 
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&style=plastic&logo=css-modules&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&style=plastic&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-ffdb7d?style=for-the-badge&style=plastic&logo=styled-components&logoColor=black)
+### Vision-Based Detection System
+Computer vision pipeline for target identification and robotic interaction.
 
-## 💪 Soft Skills
+### Embedded Control Lab
+Experiments involving PID, motor control, and sensor feedback systems.
 
-- 🔍 **Proactive** - Constantly seeking to learn new technologies and improve my skills
-- 📋 **Organized** - Maintaining clean and well-structured code, always documenting properly
-- 👥 **Empathetic** - Valuing collaboration and teamwork to achieve better results
+## Engineering Mindset
+I am especially interested in systems that combine:
+- Software + Hardware  
+- Intelligence + Reliability  
+- Theory + Real Deployment  
+- Simulation + Physical Validation  
 
-## 📊 GitHub Stats
+## Long-Term Goals
+- Contribute to world-class R&D teams  
+- Publish relevant technical research  
+- Build advanced robotic systems  
+- Work on aerospace / industrial innovation  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amicuchi&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amicuchi&theme=react&layout=compact&hide_border=false" />
-</div>
+## Currently Learning
+- ROS2 ecosystem  
+- Robotics mathematics  
+- Control theory  
+- Motion planning  
+- Computer vision for autonomous systems  
+- Scientific writing for conferences  
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Focus Feed](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=BlogFocusFeed&theme=react)](https://github.com/Amicuchi/BlogFocusFeed)
-[![Cesta Viva](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=CestaViva&theme=react)](https://github.com/Amicuchi/CestaViva)
-[![SGA](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=SGA&theme=react)](https://github.com/Amicuchi/SGA)
-[![Destiny Numbers](https://github-readme-stats.vercel.app/api/pin/?username=amicuchi&repo=Destiny-Numbers&theme=react)](https://github.com/Amicuchi/Destiny-Numbers)
-
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amicuchi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AndersonAmicuchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amicuchi)
-
-💡 _"Let's connect and collaborate!"_ 🚀
-
-</div>
-
-</br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amicuchi&color=brightgreen&style=for-the-badge" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <p><i>💻 Developed by Anderson Amicuchi</i></p>
-</div>
+## Contact
+- LinkedIn: Anderson Amicuchi(https://www.linkedin.com/in/amicuchi/)
+- Email: AndersonAmicuchi@gmail.com
